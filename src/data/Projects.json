@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AFK",
+    "description": "This application lets users search their favorite video game and get activity recommendations from Yelp",
+    "sourceCode": "https://github.com/Jlausier/AFK-Coop",
+    "demoLink": "https://jlausier.github.io/AFK-Coop/"
+  },
+  {
+    "name": "WalletWizard",
+    "description": "A money managing app that will account all your bills, and goals you have. Then you can input your income to see how much you have left in your budget and how much is spent in which places.",
+    "sourceCode": "https://github.com/Jlausier/WalletWizzard",
+    "demoLink": "https://still-spire-90353-025f487cfe63.herokuapp.com/"
+  }
+]

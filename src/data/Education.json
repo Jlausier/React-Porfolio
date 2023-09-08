@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Nokomis Regional High School",
+    "location": "Newport, Maine",
+    "course": "High SChool",
+    "span": "2011 - 2016",
+    "specialization": "N/A",
+    "score": "3.4 GPA"
+  },
+  {
+    "name": "University of Central Florida",
+    "location": "Orlando, Florida",
+    "course": "Full stack web development Bootcamp",
+    "span": "2023",
+    "specialization": "Full stack web development",
+    "score": "98 %"
+  }
+ 
+]
