@@ -5,14 +5,14 @@ const projects = [
   {
     title: 'AFK',
     description: 'This application lets users search their favorite video game and get activity recommendations from Yelp',
-    image: '/images/project1.png', // Add the image file path
+    image: 'src/images/project1.png', // Add the image file path
     liveLink: 'https://jlausier.github.io/AFK-Coop/',
     githubLink: 'https://github.com/Jlausier/AFK-Coop',
   },
   {
     title: 'Project 2',
     description: 'A money managing app that will account all your bills, and goals you have. Then you can input your income to see how much you have left in your budget and how much is spent in which places.',
-    image: '/images/project2.png', // Add the image file path
+    image: 'src/images/project2.png', // Add the image file path
     liveLink: 'https://still-spire-90353-025f487cfe63.herokuapp.com/',
     githubLink: 'https://github.com/Jlausier/WalletWizzard',
   },

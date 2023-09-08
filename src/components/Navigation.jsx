@@ -5,7 +5,7 @@ function Navigation() {
   const location = useLocation();
 
   return (
-    <nav>
+    <nav id="main-nav">
       <ul>
         <li>
           <Link to="/" className={location.pathname === '/' ? 'active' : ''}>About Me</Link>

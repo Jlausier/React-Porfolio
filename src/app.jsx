@@ -1,23 +1,17 @@
 import React from 'react';
-import Header from './components/Header';
+import { Outlet } from 'react-router-dom';
+
 import Navigation from './components/Navigation';
-import AboutMe from './pages/AboutMe';
-import Portfolio from './pages/Portfolio';
-import Contact from './pages/Contact';
-import Resume from './pages/Resume';
+
 
 function App() {
   return (
-    <Router>
-      <Header />
+    <div>
       <Navigation />
-      <Switch>
-        <Route path="/" exact component={AboutMe} />
-        <Route path="/portfolio" component={Portfolio} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/resume" component={Resume} />
-      </Switch>
-    </Router>
+      <main className="mx-3">
+        <Outlet />
+      </main>
+    </div>
   );
 }
 
