@@ -25,6 +25,7 @@ const AboutMeContainer = styled(Box)(({ theme }) => ({
 const DetailsWrapper = styled(Box)(({ theme }) => ({
   fontSize: 16,
   marginLeft: 15,
+  
   "& .actions": {
     margin: "12px 0",
   },
@@ -43,7 +44,8 @@ export const AboutMe = () => {
       <AboutMeContainer>
         <img src={MyImage} />
         <DetailsWrapper>
-          <div>{aboutMeInfo.aboutMe}</div>
+          <div>{aboutMeInfo.aboutMe1} </div>
+          <div className="spacer">{aboutMeInfo.aboutMe2}</div>
           <div className="actions">
             <CustomButton>
               <a href={Resume} rel="noreferrer" target="_blank">

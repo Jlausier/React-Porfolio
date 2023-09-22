@@ -10,5 +10,11 @@
     "description": "A money managing app that will account all your bills, and goals you have. Then you can input your income to see how much you have left in your budget and how much is spent in which places.",
     "sourceCode": "https://github.com/Jlausier/WalletWizzard",
     "demoLink": "https://still-spire-90353-025f487cfe63.herokuapp.com/"
+  },
+  {
+    "name": "LawnShark",
+    "description": "An app to connect customers in need of yard work (Mowing, tree trimming, pressure washing, etc.) with compnaies that provide those services. Cusatomers post the jobs they need completed along with how much they are willing to pay. Companies can then see the job postings and place bids. When a customer accepts a company's bid the company will be notified.",
+    "sourceCode": "https://github.com/Jlausier/LawnShark",
+    "demoLink": "https://gentle-wildwood-36558-193385005281.herokuapp.com/"
   }
 ]

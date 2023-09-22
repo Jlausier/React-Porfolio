@@ -40,7 +40,7 @@ const SkillListWrapper = styled(Box)(() => ({
     flexDirection: "column",
     justifyContent: StyleConstants.SKILLS_BG,
     width: 250,
-    height: 250,
+    height: "max-content",
     marginTop: 78,
     border: "1px solid black",
     background: "#bcd1e3",
