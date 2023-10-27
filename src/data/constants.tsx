@@ -2,6 +2,7 @@
 import ProjectImg1 from "../assets/project1.png";
 import ProjectImg2 from "../assets/project2.png";
 import ProjectImg3 from "../assets/project3.png";
+
 interface Map {
   [key: string]: string | undefined;
 }
@@ -18,3 +19,4 @@ export const projectImage: Map = {
   "walletwizard": ProjectImg2,
   "lawnshark": ProjectImg3,
 };
+
