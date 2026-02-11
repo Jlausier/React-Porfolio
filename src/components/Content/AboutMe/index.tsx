@@ -44,8 +44,8 @@ export const AboutMe = () => {
       <AboutMeContainer>
         <img src={MyImage} />
         <DetailsWrapper>
-          <div>{aboutMeInfo.aboutMe1} </div>
-          <div className="spacer">{aboutMeInfo.aboutMe2}</div>
+          <p>{aboutMeInfo.aboutMe1} </p>
+          <p className="spacer">{aboutMeInfo.aboutMe2}</p>
           <div className="actions">
             <CustomButton>
               <a href={Resume} rel="noreferrer" target="_blank">
