@@ -16,5 +16,11 @@
     "description": "An app to connect customers in need of yard work (Mowing, tree trimming, pressure washing, etc.) with compnaies that provide those services. Cusatomers post the jobs they need completed along with how much they are willing to pay. Companies can then see the job postings and place bids. When a customer accepts a company's bid the company will be notified.",
     "sourceCode": "https://github.com/Jlausier/LawnShark",
     "demoLink": "https://gentle-wildwood-36558-193385005281.herokuapp.com/"
+  },
+  {
+    "name": "Valhalla Banquet Wagon",
+    "description": "A website made for a food truck, Its menu, prices, along with all their social media tags, as well as a future spot to mark the location of the truck for customers to follow",
+    "sourceCode": "https://github.com/Jlausier/Jake-s-Crafted-Meals",
+    "demoLink": "https://jake-s-crafted-meals.onrender.com"
   }
 ]
