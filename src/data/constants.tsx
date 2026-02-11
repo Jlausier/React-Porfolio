@@ -19,6 +19,6 @@ export const projectImage: Map = {
   "afk": ProjectImg1,
   "walletwizard": ProjectImg2,
   "lawnshark": ProjectImg3,
-  "Valhalla Banquet wagon": ProjectImg4,
+  "valhalla banquet wagon": ProjectImg4,
 };
 
