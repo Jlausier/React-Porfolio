@@ -4,19 +4,20 @@
     "Time Managment",
     "Cash handling",
     "Barback",
-    "Resteraunt Server",
+    "Restaraunt Server",
     "Tutoring",
     "Customer Service"
   ],
   "hardSkills": [
     "HTML",
+    "TypeScript",
     "CSS",
     "JavaScript",
     "React",
-    "Mern Stack applications",
+    "MERN Stack applications",
     "Node.js",
     "Bootsrap/Tailwind",
-    "jquery/ jQueryui",
+    "jQuery/ jQueryui",
     "SQL and NoSQL",
     "PWA",
     "Soruce code management(Git)"
